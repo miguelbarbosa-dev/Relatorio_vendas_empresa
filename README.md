@@ -5,7 +5,7 @@ Este repositório contém dados de vendas de uma empresa fictícia para fins de 
 ## 📁 O que você vai encontrar
 
 ### Arquivo Principal
-- **`Dados_vendas_empresa_vF.xlsx`** - Planilha principal com todos os dados de vendas
+- **`dados_vendas_empresa_1.xlsx`** - Planilha principal com todos os dados de vendas
 
 ### Informações dos Dados
 - **200 registros de vendas** de dezembro/2024 a junho/2025
